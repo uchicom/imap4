@@ -18,8 +18,8 @@ import java.util.Collections;
 import java.util.Date;
 import java.util.List;
 
-import com.uchicom.server.Parameter;
 import com.uchicom.server.ServerProcess;
+import com.uchicom.util.Parameter;
 
 public class Imap4Process implements ServerProcess {
 

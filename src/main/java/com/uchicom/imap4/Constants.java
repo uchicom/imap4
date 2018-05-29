@@ -83,7 +83,7 @@ public class Constants {
 	/** デフォルトメールボックスディレクトリ */
     public static String DEFAULT_MAILBOX = "mailbox";
     /** デフォルト待ち受けポート番号 */
-    public static String DEFAULT_PORT = "8110";
+    public static String DEFAULT_PORT = "8143";
     /** デフォルト接続待ち数 */
 	public static String DEFAULT_BACK = "10";
 	/** デフォルトスレッドプール数 */
